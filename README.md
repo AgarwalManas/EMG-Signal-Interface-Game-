@@ -5,7 +5,7 @@ This resporitory only contains the final circuit diagram, circuit design, and a 
 If more details are required (such as project description) please email to - manas.agarwal@carleton.ca along with your reason. 
 Partner's name: Arsalan Barolia
 
-For visual view, kindly watch Final EMG Signal Interface Game Demonstration at this following link: https://youtu.be/KecdZ1tpc-4
+For visual view, kindly watch "Final EMG Signal Interface Game Demonstration" at this following link: https://youtu.be/KecdZ1tpc-4
 
 ## Circuit Diagram
 ![Circuit Diagram](Circuit_diagram.jpg)

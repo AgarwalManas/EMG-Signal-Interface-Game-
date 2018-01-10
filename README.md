@@ -9,4 +9,5 @@ For visual view, kindly watch Final EMG Signal Interface Game Demonstration at t
 ## Circuit Diagram
 ![Circuit Diagram] (Blueprint of the Circuit.jpg)
 
-
+## Dimensions 2 of 2
+![Circuit Diagram](Circuit_diagram.jpg)

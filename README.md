@@ -7,7 +7,4 @@ If more details are required (such as project description), please email to - ma
 For visual view, kindly watch Final EMG Signal Interface Game Demonstration at this following link: https://youtu.be/KecdZ1tpc-
 
 ## Circuit Diagram
-![Circuit Diagram] (Blueprint of the Circuit.jpg)
-
-## Dimensions 2 of 2
 ![Circuit Diagram](Circuit_diagram.jpg)
